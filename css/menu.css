@@ -1,0 +1,9 @@
+nav{
+    width: 100%;
+    border: 1px dashed black;
+    background-color: #04cc04;
+}
+nav a{
+    color: #0a1cbf;
+    font-size: 2em;
+}
